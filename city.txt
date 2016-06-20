@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Code": "340000",
     "Name": "安徽",
@@ -8,6 +8,11 @@
         "Name": "安庆市",
         "SubChinaCity": [
           {
+            "Code": "340803",
+            "Name": "大观区",
+            "SubChinaCity": null
+          },
+	  {
             "Code": "340803",
             "Name": "大观区",
             "SubChinaCity": null
