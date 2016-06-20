@@ -1,6 +1,10 @@
 [
   {
-    "Code": "3400000",
+<<<<<<< HEAD
+    "Code": "3400",
+=======
+    "Code": "3400",
+>>>>>>> featurel
     "Name": "安徽",
     "SubChinaCity": [
     {
