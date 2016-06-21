@@ -1,6 +1,6 @@
-[
+﻿[
   {
-    "Code": "34000000",
+    "Code": "34",
     "Code": "3400",
     "Name": "安徽",
     "SubChinaCity": [
