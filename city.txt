@@ -1,23 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-﻿
->>>>>>> jiaocan
-[
-  {
-    "Code": "34000",
-    "Code": "3400",
-<<<<<<< HEAD
-=======
-﻿jiaocan add[
+﻿[
   {
     "Code": "340000000",
->>>>>>> 4f5fa1ff8732dfa01cc788c1758e67a4189cb51c
-=======
-    "Code": "3400",
->>>>>>> 7d4873b745a710f99bce1732c4fec77a8401f1ea
->>>>>>> jiaocan
-    "Name": "安徽",
+    "Code": "3400"
+     "Name": "安徽",
     "SubChinaCity": [
     {
         "Code": "340800",
