@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 [
   {
     "Code": "34000",
     "Code": "3400",
+=======
+﻿jiaocan add[
+  {
+    "Code": "340000000",
+>>>>>>> 4f5fa1ff8732dfa01cc788c1758e67a4189cb51c
     "Name": "安徽",
     "SubChinaCity": [
     {
